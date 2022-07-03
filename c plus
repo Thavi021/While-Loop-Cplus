@@ -1,0 +1,6 @@
+while (password != 1234) {
+ 
+  std::cout << "Try again: ";
+  std::cin >> password;
+ 
+}
